@@ -1,1 +1,3 @@
-## My favorite book:books: is 《the Great Gatsby》
+## My favorites 
+* :books:  《the Great Gatsby》
+* sports: basketball、ping-pong、pool
